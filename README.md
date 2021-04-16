@@ -1,4 +1,4 @@
-# Spigot_SaveMyForeset
+# Spigot_SaveMyForest
 A Spigot 1.16 Plugin for auto replanting of Saplings
 
 ### Config File
